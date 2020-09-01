@@ -13,3 +13,6 @@ Binary installers for the latest released version are available at the Python pa
 > conda install pandas
 # or PyPI
 > pip install pandas
+
+Pandas is very easy to use and can handle large datasets more efficiently than excel.
+We will be covering other libraries and Machine Learning Models used to process,analyse and predict data later.
