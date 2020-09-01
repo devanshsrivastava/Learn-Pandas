@@ -14,5 +14,9 @@ Binary installers for the latest released version are available at the Python pa
 # or PyPI
 > pip install pandas
 
+### Dataset used
+
+> https://www.kaggle.com/datasnaek/youtube-new
+
 Pandas is very easy to use and can handle large datasets more efficiently than excel.
-We will be covering other libraries and Machine Learning Models used to process,analyse and predict data later.
+We will be covering other libraries and Machine Learning Models used to process,analyse and predict data later
