@@ -10,6 +10,6 @@ Link to Install Pandas Externally: https://pandas.pydata.org/
 Binary installers for the latest released version are available at the Python package index and on conda.
 
 # conda
-conda install pandas
+> conda install pandas
 # or PyPI
-pip install pandas
+> pip install pandas
